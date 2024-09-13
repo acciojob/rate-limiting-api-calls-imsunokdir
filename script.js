@@ -1,4 +1,4 @@
-const fetchButton = document.getElementById('fetchButton');
+const fetchButton = document.getElementById('fetch-button');
         const clickCountSpan = document.getElementById('clickCount');
         const resultsDiv = document.getElementById('results');
 
